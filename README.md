@@ -1,8 +1,5 @@
 # Interviewbit
 
-## Below 
-<img src='https://github.com/SiddhataPatil/Interviewbit/blob/master/interview_bit_profile.gif' width="750" height="650" />
-
 # Level 2
 
 https://github.com/SiddhataPatil/Level2_Array-Vectors
@@ -30,3 +27,6 @@ https://github.com/SiddhataPatil/Level4-Stacks_and_Queues
 https://github.com/SiddhataPatil/Level5-Backtracking
 
 https://github.com/SiddhataPatil/Level5-Hashing
+
+## Below is the completion status upto Level 5 on Interviewbit
+<img src='https://github.com/SiddhataPatil/Interviewbit/blob/master/interview_bit_profile.gif' width="750" height="650" />
